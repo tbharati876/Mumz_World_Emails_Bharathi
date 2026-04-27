@@ -26,6 +26,39 @@ This system automates:
 
 ---
 
+## Example Input and Output
+I received a damaged product and want a refund.
+Output:
+- Intent: refund
+- Urgency: high
+- Confidence: 0.9
+
+---
+
+## Architecture
+User Input -> LLM -> JSON -> Validation -> UI
+
+---
+
+## Tooling
+- OpenRouter API
+- Ngrok Auth Token
+- Google Colab
+- Streamlit
+- Python and HTML/CSS
+
+---
+
+## AI Usage
+Used OpenRouter and some ChatGPT with structured prompts and JSON extraction.
+
+---
+
+## Time Spent
+nearly 5 hours.
+
+---
+
 ## Setup
 
 ```bash
