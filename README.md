@@ -1,4 +1,4 @@
-# 📩 AAnalyze emails of MUMZ World (EN + AR)(EN + AR)
+# 📩 Analyze emails of MUMZ World (EN + AR)(EN + AR)
 
 ## Summary
 This project is an AI-powered system that analyzes emails and outputs structured insights including intent, urgency, reasoning, confidence score, and replies in English and Arabic.
