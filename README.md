@@ -59,6 +59,13 @@ nearly 5 hours.
 
 ---
 
+## Clone the repository
+https://github.com/tbharati876/Mumz_World_Emails_Bharathi
+
+--- 
+## Install the requirements and packages and enter the OpenAPI Key and Ngrok AUTH Token
+
+---
 ## Setup
 
 ```bash
