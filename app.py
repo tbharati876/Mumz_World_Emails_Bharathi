@@ -1,6 +1,5 @@
 # 1. INSTALL
 
-!pip install streamlit pyngrok requests pydantic
 
 # 2. SET OPEN API KEY and AUTH TOKEN
 
