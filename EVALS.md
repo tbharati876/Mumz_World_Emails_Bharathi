@@ -2,6 +2,7 @@
 ---
 
 # EVALS.md
+# Evaluate with the testcases, then it gives the expected result based on the input
 
 ```md
 # Evaluation
@@ -27,7 +28,7 @@
 ## Failure Cases
 - Very short inputs
 - Mixed intent emails
-- Out-of-domain queries
+- Out of domain queries
 
 ---
 
