@@ -1,4 +1,7 @@
+
 ---
+
+# EVALS.md
 
 ```md
 # Evaluation
@@ -24,10 +27,10 @@
 ## Failure Cases
 - Very short inputs
 - Mixed intent emails
-- Out of domain queries
+- Out-of-domain queries
 
 ---
 
 ## Observations
-- JSON sometimes malformed can be fixed via extraction
+- JSON sometimes malformed → fixed via extraction
 - Arabic quality is good
